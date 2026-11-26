@@ -1,0 +1,22 @@
+{
+  "wheel_id": 968,
+  "structure": "umbrella",
+  "slug": "northshorekitchenrenovation-156",
+  "project": "kitchen-renovation-north-shore-questions-to-ask-5d7a02cc3512338",
+  "parent_t1_ref": "northshorekitchenrenovation-015",
+  "node_role": "buffer",
+  "money_target": "northshorekitchenrenovation.com.au",
+  "primary_kw": "kitchen renovation north shore questions to ask",
+  "intended_url": "http://kitchen-renovation-north-shore-questions-to-ask-5d7a02cc3512338.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "c5f21b05aad9ce40",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/kitchen-renovation-north-shore-northshorekitchenrenovation-015/",
+      "anchor": "the related resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
